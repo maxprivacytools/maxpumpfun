@@ -1,0 +1,9 @@
+Add the project's logo to the top left corner of the homepage and launch page
+
+Replaces the ShieldCheck icon with the project logo in the header of HomePage and LaunchPage components. Imports maxLogo and updates JSX for both components. Removes unused ShieldCheck import.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 2b2ccfc7-7063-4f0d-ae0e-5a060745650a
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: bd2e98b5-5c6d-4102-8a12-bba6ca2c8f8a
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/55faf8c4-224a-4d9f-a30a-4989a8654a36/2b2ccfc7-7063-4f0d-ae0e-5a060745650a/zNTS2Gy
